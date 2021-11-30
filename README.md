@@ -1,4 +1,9 @@
 ## Network Intrusion Detection System using The UNSW-NB15 Dataset
+
+### Dataset
+Dataset was sourced from https://research.unsw.edu.au/projects/unsw-nb15-dataset
+The files UNSW-NB15_1.csv, UNSW-NB15_2.csv, UNSW-NB15_3.csv and UNSW-NB15_4.csv were merged and successive operations were done in DataAnalysis.ipynb
+
 ### DataAnalysis.ipynb
 In this notebook, we perform data cleaning, preprocessing and the analysis. The preprocessing mechanisms have been listed down in the report submitted. In our analysis, we explore the correlations of features with the output and the variances of each feature.
 
