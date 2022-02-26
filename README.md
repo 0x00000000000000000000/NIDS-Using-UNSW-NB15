@@ -13,3 +13,13 @@ Within this python file, we perform additional preprocessing on the dataset and 
 ### Publication
 The work done has been documented and published in MDPI's Sensor's Journal under the Special Issue of Smart Mobile-Internet of Things (M-IoT).
 The publication can be found here at https://www.mdpi.com/1424-8220/21/23/7835
+
+### Citation
+#### MDPI and ACS Style
+Kotecha, K.; Verma, R.; Rao, P.V.; Prasad, P.; Mishra, V.K.; Badal, T.; Jain, D.; Garg, D.; Sharma, S. Enhanced Network Intrusion Detection System. Sensors 2021, 21, 7835. https://doi.org/10.3390/s21237835
+
+#### AMA Style
+Kotecha K, Verma R, Rao PV, Prasad P, Mishra VK, Badal T, Jain D, Garg D, Sharma S. Enhanced Network Intrusion Detection System. Sensors. 2021; 21(23):7835. https://doi.org/10.3390/s21237835
+
+#### Chicago/Turabian Style
+Kotecha, Ketan, Raghav Verma, Prahalad V. Rao, Priyanshu Prasad, Vipul K. Mishra, Tapas Badal, Divyansh Jain, Deepak Garg, and Shakti Sharma. 2021. "Enhanced Network Intrusion Detection System" Sensors 21, no. 23: 7835. https://doi.org/10.3390/s21237835 
